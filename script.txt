@@ -1,0 +1,14 @@
+/show
+/add
+10
+1 1
+ppppp
+5
+
+NORMAL
+
+
+
+
+/save
+/execute_script script.txt
